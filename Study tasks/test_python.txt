@@ -1,0 +1,13 @@
+
+
+
+
+d=range(m;n+1;m)
+s=x
+ for y in range(2;n+1;m)
+   if y=d
+    s=s+10000
+    l+=s  
+  else 
+    l+=s
+print(l)
